@@ -1,0 +1,20 @@
+Content-Type: text/plain;charset=utf-8
+Cache-Control: max-age=3000, public, no-cache="set-cookie", s-maxage=86400
+Pragma: cache
+Server: openresty
+X-Debug-Phase: 1
+Last-Modified: Fri, 05 Nov 2021 04:09:24 GMT
+Expires: Sat, 02 Jul 2022 15:25:13 GMT
+Vary: Accept-Encoding
+X-Cache: HIT from squizedge.net
+Date: Sat, 02 Jul 2022 14:35:13 GMT
+X-Content-Type-Options: nosniff
+Content-Disposition: inline; filename="robots.txt";
+Content-Encoding: gzip
+X-Debug-Referer: 0
+Age: 1502
+Via: 1.1 squizedge.net
+Matrix-Upstream: web-golive-upstream
+X-Upgrade-Enabled: off
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: d7efa6bc-621b-4e33-816d-b64d02e794e5

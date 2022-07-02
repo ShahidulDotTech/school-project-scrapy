@@ -1,0 +1,19 @@
+Access-Control-Allow-Origin: https://www.utas.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Sat, 02 Jul 2022 15:03:04 GMT
+Expires: Sat, 02 Jul 2022 15:53:03 GMT
+Last-Modified: Fri, 01 Jul 2022 05:51:44 GMT
+Matrix-Upstream: web-golive-upstream
+Pragma: cache
+Server: openresty
+Set-Cookie: SQ_SYSTEM_SESSION=39fa07cd0cf457296a21fbbd7b0f8ac9; path=/; HttpOnly
+Vary: Accept-Encoding
+Via: 1.1 squizedge.net
+X-Cache: MISS from squizedge.net
+X-Content-Type-Options: nosniff
+X-Debug-Phase: 1
+X-Debug-Referer: 0
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: 4358df82-b1e3-4698-961b-bbd4c0272ed1
+X-Upgrade-Enabled: off

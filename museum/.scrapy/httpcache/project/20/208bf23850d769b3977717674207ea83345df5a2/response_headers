@@ -1,0 +1,19 @@
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, private
+Pragma: cache
+Server: openresty
+X-Debug-Phase: 1
+Last-Modified: Fri, 01 Jul 2022 05:51:44 GMT
+Expires: Sat, 02 Jul 2022 16:06:09 GMT
+Date: Sat, 02 Jul 2022 15:16:09 GMT
+X-Content-Type-Options: nosniff
+Matrix-Upstream: web-golive-upstream
+X-Cache: MISS from squizedge.net
+X-Debug-Referer: 0
+X-Upgrade-Enabled: off
+X-Frame-Options: SAMEORIGIN
+Via: 1.1 squizedge.net
+X-Request-Id: d7bb9cf5-030a-463e-9327-5686424cad10
+Content-Encoding: gzip
